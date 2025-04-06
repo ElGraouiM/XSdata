@@ -1,1 +1,1 @@
-export(ecoregions, vigna_occ)
+export(ecoregions, vigna_occ, no_georef)

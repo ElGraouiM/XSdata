@@ -1,7 +1,6 @@
-\name{vigna}
+\name{vigna_occ}
 
-
-\alias{vigna_occurrence}
+\alias{vigna_occ}
  
 \title{Vigna occurrence data}
 

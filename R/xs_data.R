@@ -13,3 +13,10 @@ vigna_occ <- function() {
 	readRDS(f)
 
 }
+
+no_georef <- function() {
+
+	f <- system.file("ex/non_georeferenced_points.rds", package="XSdata")
+	readRDS(f)
+
+}
